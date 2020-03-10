@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/sangria71/static/css/main.76e242e9.chunk.css",
-    "main.js": "/sangria71/static/js/main.27e2a6e6.chunk.js",
-    "main.js.map": "/sangria71/static/js/main.27e2a6e6.chunk.js.map",
+    "main.js": "/sangria71/static/js/main.0e2e45e8.chunk.js",
+    "main.js.map": "/sangria71/static/js/main.0e2e45e8.chunk.js.map",
     "runtime-main.js": "/sangria71/static/js/runtime-main.43b1b00f.js",
     "runtime-main.js.map": "/sangria71/static/js/runtime-main.43b1b00f.js.map",
     "static/js/2.cefe3883.chunk.js": "/sangria71/static/js/2.cefe3883.chunk.js",
     "static/js/2.cefe3883.chunk.js.map": "/sangria71/static/js/2.cefe3883.chunk.js.map",
     "index.html": "/sangria71/index.html",
-    "precache-manifest.9616ae53a500adfdb125117df4c2a14b.js": "/sangria71/precache-manifest.9616ae53a500adfdb125117df4c2a14b.js",
+    "precache-manifest.cfe9d72d368e9f8afbe698ebb4be9f1f.js": "/sangria71/precache-manifest.cfe9d72d368e9f8afbe698ebb4be9f1f.js",
     "service-worker.js": "/sangria71/service-worker.js",
     "static/css/main.76e242e9.chunk.css.map": "/sangria71/static/css/main.76e242e9.chunk.css.map",
     "static/js/2.cefe3883.chunk.js.LICENSE.txt": "/sangria71/static/js/2.cefe3883.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.43b1b00f.js",
     "static/js/2.cefe3883.chunk.js",
     "static/css/main.76e242e9.chunk.css",
-    "static/js/main.27e2a6e6.chunk.js"
+    "static/js/main.0e2e45e8.chunk.js"
   ]
 }

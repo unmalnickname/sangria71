@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "67c286c688fd13e93945952780f0a2a3",
+    "revision": "4f3bb718ce2ec7117f7ea106bdf761be",
     "url": "/sangria71/index.html"
   },
   {
-    "revision": "bd6a4388a710453fcb4b",
+    "revision": "bc723286e32960e7bc38",
     "url": "/sangria71/static/css/main.76e242e9.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sangria71/static/js/2.cefe3883.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bd6a4388a710453fcb4b",
-    "url": "/sangria71/static/js/main.0e2e45e8.chunk.js"
+    "revision": "bc723286e32960e7bc38",
+    "url": "/sangria71/static/js/main.bd425c76.chunk.js"
   },
   {
     "revision": "adaa067a634d6c9aa43a",

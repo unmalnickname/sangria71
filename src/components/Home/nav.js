@@ -1,18 +1,19 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 const Nav = () => {
   return (
     <div className="ui three item menu">
-      <a href="/Home" className="item active">
+      <Link to="/Home" className="item active">
         Summary
-      </a>
+      </Link>
 
-      <a href="SplitList" className="item">
+      <Link to="/SplitList" className="item">
         Split
-      </a>
-      <a href="/CalculatorImage" className="item">
+      </Link>
+      <Link to="/CalculatorImage" className="item">
         Calculator
-      </a>
+      </Link>
     </div>
   );
 };

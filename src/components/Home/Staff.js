@@ -5,9 +5,8 @@ import { TipsContext } from "../Staff/tipsContext";
 // import "../App.css";
 
 const Staff = (props) => {
-  const dividir = parseFloat(localStorage.getItem("valorTotal"));
   const { valorFinal } = useContext(TipsContext);
-  console.log(dividir);
+  const dividir = parseFloat(valorFinal) || 0;
 
   const { tips } = useContext(StorageContext);
 

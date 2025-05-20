@@ -1,9 +1,11 @@
 import React, { useContext } from "react";
 import { StorageContext } from "./storageContext";
+import { TipsContext } from "../Staff/tipsContext";
 
 const Cards = (props) => {
   const { tips } = useContext(StorageContext);
-  const dividir = parseFloat(localStorage.getItem("valorTotal"));
+  const { valorFinal } = useContext(TipsContext);
+  const dividir = valorFinal;
 
   return (
     <div className="ui card DivTips ">
